@@ -1,0 +1,6 @@
+"files.associations": {
+        "*.blade.php": "html",
+        "*.html": "html",
+        "*.jsx": "html",
+        "*.ejs": "html",
+    }
