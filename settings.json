@@ -4,3 +4,34 @@
         "*.jsx": "html",
         "*.ejs": "html",
     }
+
+
+{
+    "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "html.format.contentUnformatted": "pre,code,textarea",
+    "html.format.endWithNewline": false,
+    "html.format.extraLiners": "head, body, /html",
+    "html.format.indentHandlebars": false,
+    "html.format.indentInnerHtml": false,
+    "html.format.maxPreserveNewLines": null,
+    "html.format.preserveNewLines": true,
+    "html.format.wrapLineLength": 120,
+    "html.format.wrapAttributes": "auto",
+    "editor.formatOnSave": false,
+    "[php]": {
+    "editor.formatOnSave": true
+    },
+    "editor.experimental.pasteActions.enabled": true,
+    "files.associations": {
+        "*.blade.php":"blade",
+        "*.html":"html",
+        "*.vue":"vue-html",
+        "*.js":"javascript"
+    },
+    "emmet.includeLanguages": {
+        "blade": "html"
+    },
+}
